@@ -1,9 +1,23 @@
 <idea-plugin>
     <id>com.bruce.intellijplugin.dubboPlugin</id>
     <name>Dubbo</name>
-    <vendor email="gejun123456@gmail.com" url="https://github.com/gejun123456/IntellijDubboPlugin">IntellijDubboPlugin</vendor>
-
+    <vendor email="gejun123456@gmail.com" url="https://github.com/dubbo/intellij-idea-plugin">IntellijDubboPlugin</vendor>
     <description><![CDATA[
+
+    <div>
+      <p><a href="https://github.com/dubbo/intellij-idea-plugin">GitHub</a>
+      <p>Features</p>
+      <ul>
+          <li>create dubbo+springboot project with api module and provider module quickly</li>
+          <li>support lots of third party dependency like mybatis,pageHelper,hikari,redis
+          generate code example and testcase for them</li>
+      </ul>
+      qqGroup:796916754
+    ]]></description>
+
+
+    <change-notes>
+        <![CDATA[
     <p><h4>1.1</h4>
             <ul>
                 <li>add mavenWrapper for plugin</li>
@@ -21,7 +35,8 @@
             </ul>
      </p>
      qqGroup:796916754
-    ]]></description>
+    ]]>
+    </change-notes>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->
