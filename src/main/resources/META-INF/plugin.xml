@@ -11,20 +11,19 @@
           <li>create dubbo+springboot project with api module and provider module quickly</li>
           <li>support lots of third party dependency like mybatis,pageHelper,hikari,redis
           generate code example and testcase for them</li>
+          <li>qqGroup:796916754</li>
       </ul>
-      qqGroup:796916754
     ]]></description>
 
 
     <change-notes>
         <![CDATA[
-    <p><h4>1.1</h4>
+    <h4>1.1</h4>
             <ul>
                 <li>add mavenWrapper for plugin</li>
                 <li>use Application as main class</li>
             </ul>
-     </p>
-    <p><h4>1.0</h4>
+    <h4>1.0</h4>
             <ul>
                 <li>create dubbo+springboot project quickly</li>
                 <li>support mybatis</li>
@@ -32,9 +31,7 @@
                 <li>support lombok</li>
                 <li>support spring retry</li>
                 <li>support hikari</li>
-            </ul>
-     </p>
-     qqGroup:796916754
+    </ul>
     ]]>
     </change-notes>
 
