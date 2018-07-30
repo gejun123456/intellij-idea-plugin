@@ -6,12 +6,12 @@
 
     <div>
       <p><a href="https://github.com/dubbo/intellij-idea-plugin">GitHub</a>
+      |&nbsp<a href="https://github.com/dubbo/intellij-idea-plugin/issues">Issues</a>
       <p>Features</p>
       <ul>
           <li>create dubbo+springboot project with api module and provider module quickly</li>
           <li>support lots of third party dependency like mybatis,pageHelper,hikari,redis
           generate code example and testcase for them</li>
-          <li>qqGroup:796916754</li>
       </ul>
     ]]></description>
 
